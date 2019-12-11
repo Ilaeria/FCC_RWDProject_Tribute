@@ -1,0 +1,13 @@
+#image {
+    align-self: center;
+    max-width: 100%;
+    display: block;
+}
+
+#main {
+    text-align: center;
+}
+
+#img-div {
+    display: inline-block;
+}
